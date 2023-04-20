@@ -2,3 +2,4 @@ This is some text
 Adding this change on the main branch
 Adding this change on the conflict branchFixing an issue on the main branch
 Writing out line 1
+Writing out line 2
